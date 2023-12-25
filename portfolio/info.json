@@ -1,0 +1,81 @@
+{
+    "profileDetails":{
+       "name":"NIRAJ DUWAL",
+       "email":"duwalkneerose@gmail.com",
+       "description":"👋 Hi! I'm Niraj, an electronics engineer with a passion for coding. I've honed my programming skills through a blend of structured learning and self-teaching. Let's combine innovation with coding, and user-centric design.",
+       "hobby":"During my downtime, you'll find me singing 🎤, diving into books 📕, exploring modern trends 🚀, gaming, and enjoying the company of my favorite people ❤️.",
+       "hobbyImage1":"https://kneerose.github.io/bucket/portfolio/images/about1.png",
+       "hobbyImage2":"https://kneerose.github.io/bucket/portfolio/images/about2.png",
+       "cv":"https://drive.google.com/uc?export=download&id=1iJoO_JCLYwoz--M4N1I-bMbjICkTldwd"
+    },
+    "socialProviders":[
+       {
+          "name":"Linkedin",
+          "logo":"https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/linkedin.png",
+          "link":"https://www.linkedin.com/in/niraj-duwal-82537b187/"
+       },
+       {
+          "name":"GitHub",
+          "logo":"https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/GitHub.png",
+          "link":"https://github.com/kneerose"
+       },
+       {
+          "name":"Reddit",
+          "logo":"https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/reddit.png",
+          "link":"https://www.reddit.com/user/kneerose143"
+       },
+       {
+          "name":"Instagram",
+          "logo":"https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/instagram.png",
+          "link":"https://www.instagram.com/niraj.duwal/"
+       },
+       {
+          "name":"Smule",
+          "logo":"https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/smule.png",
+          "link":"https://www.smule.com/kneerose12"
+       }
+    ],
+    "quotesDetails":{
+       "quotes":"Great web design without functionality is like a sports car with no engine.",
+       "owner":"Paul Cookson"
+    },
+    "personalities":{
+       "title":"I am INTP-T",
+       "description":"Characterized by a strong analytical mind, a creative approach to problem-solving, and a continuous drive for self-improvement.",
+       "references":"According to 16personalities.com"
+    },
+    "products":[
+       {
+          "title":"bettercollected",
+          "link":"https://bettercollected.com/",
+          "description":"A privacy-focused form builder designed for conscious companies that prioritize the rights and data privacy of their form responders.",
+          "role":"Fullstack developer",
+          "backgroundColor":"#E8F2FF",
+          "image":"https://kneerose.github.io/bucket/portfolio/images/bettercollected.png"
+       },
+       {
+          "title":"Sireto",
+          "link":"https://sireto.com/",
+          "description":"Sireto is a software company based on the Netherlands and Nepal building innovative software and solutions for our partners and valued clients.",
+          "role":"Fullstack developer",
+          "backgroundColor":"#FDF2FF",
+          "image":"https://kneerose.github.io/bucket/portfolio/images/sireto.png"
+       },
+       {
+          "title":"Kuber IDE",
+          "link":"https://kuberide.com/",
+          "description":"PreSetup Environment for writing and trying out plutus contracts and cardano transactions.",
+          "role":"Ghost theme developer",
+          "backgroundColor":"#F4F4F6",
+          "image":"https://kneerose.github.io/bucket/portfolio/images/KuberIDE.png"
+       }
+    ],
+    "testimonials":[
+       {
+          "thought":"Niraj is a disciplined guy who delivered the assigned tasks within the deadline with a fantastic result. I highly recommend Niraj as a software Developer and would love to work together again.",
+          "name":"Sandip pandey",
+          "position":"CEO, Sireto technology",
+          "image":"https://kneerose.github.io/bucket/portfolio/images/testimonialImage.png"
+       }
+    ]
+ }
