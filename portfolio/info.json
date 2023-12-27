@@ -74,16 +74,16 @@
   ],
   "testimonials": [
     {
-      "thought": "Niraj is a disciplined guy who delivered the assigned tasks within the deadline with a fantastic result. I highly recommend Niraj as a software Developer and would love to work together again.",
-      "name": "Sandip pandey",
-      "position": "CEO, Sireto technology",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/testimonialImage.png"
-    },
-    {
       "thought": "Niraj has a remarkable ability to grasp complex concepts quickly and delivered outstanding solutions that exceeded expectations. I wholeheartedly endorse Niraj's expertise and look forward to collaborating again.",
       "name": "Michael Johnson",
       "position": "CTO, InnovateHub",
       "image": "https://kneerose.github.io/bucket/portfolio/images/testimonialImage1.png"
+    },
+    {
+      "thought": "Niraj is a disciplined guy who delivered the assigned tasks within the deadline with a fantastic result. I highly recommend Niraj as a software Developer and would love to work together again.",
+      "name": "Sandip pandey",
+      "position": "CEO, Sireto technology",
+      "image": "https://kneerose.github.io/bucket/portfolio/images/testimonialImage.png"
     },
     {
       "thought": "Niraj's attention to detail and problem-solving skills are exemplary. His dedication and innovative approach significantly contributed to the project's success. I enthusiastically recommend Niraj for his software development prowess.",
