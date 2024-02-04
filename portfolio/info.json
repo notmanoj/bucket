@@ -1,100 +1,94 @@
 {
   "profileDetails": {
-    "name": "NIRAJ DUWAL",
-    "email": "duwalkneerose@gmail.com",
-    "description": "👋 Hi! I'm Niraj, an electronics engineer with a passion for coding. I've honed my programming skills through a blend of structured learning and self-teaching. Let's combine innovation with coding, and user-centric design.",
-    "hobby": "During my downtime, you'll find me singing 🎤, diving into books 📕, exploring modern trends 🚀, gaming, and enjoying the company of my favorite people ❤️.",
-    "hobbyImage1": "https://kneerose.github.io/bucket/portfolio/images/about1.png",
-    "hobbyImage2": "https://kneerose.github.io/bucket/portfolio/images/about2.png",
-    "cv": "https://drive.google.com/file/d/1Hm0OEm9X15mHOvqJI-XRF3C1mOmoSs2_/view?usp=sharing",
-    "avatar": "https://kneerose.github.io/bucket/portfolio/images/me.png"
+    "name": "MANOJ RAI",
+    "email": "manojraihello@gmail.com",
+    "description": "A self-taught, Kathmandu based UI/UX designer that enjoys making challenging situations fun. I’m aiming to be the most brilliant designer of my time.",
+    "hobby": "When I am not using Figma, catch me sketching , reading , exploring modern trends, gaming, clicking random pics, and hanging with my favorite people ❤️.",
+    "hobbyImage1": "./images/about1.png",
+    "hobbyImage2": "./images/about2.png",
+    "cv": "https://drive.google.com/file/d/1Bn0OxaoEZ8nYd6B3yRmTd7_CfpeDL2Bd/view?usp=sharing",
+    "avatar": "https://notmanoj.github.io/bucket/portfolio/images/me.png"
   },
   "socialProviders": [
     {
       "name": "Linkedin",
-      "logo": "https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/linkedin.png",
-      "link": "https://www.linkedin.com/in/niraj-duwal-82537b187/"
-    },
-    {
-      "name": "GitHub",
-      "logo": "https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/GitHub.png",
-      "link": "https://github.com/kneerose"
-    },
-    {
-      "name": "Youtube",
-      "logo": "https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/youtube.svg",
-      "link": "https://www.youtube.com/channel/UCUnRGywbNgBQOwL9uefWSoA"
-    },
-    {
-      "name": "Reddit",
-      "logo": "https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/reddit.png",
-      "link": "https://www.reddit.com/user/kneerose143"
-    },
-    {
+      "logo": "./images/socialProviderLogo/linkedin.png",
+      "link": "https://www.linkedin.com/in/manoj-rai-3b7952155/"
+  },
+  {
+      "name": "behance",
+      "logo": "./images/socialProviderLogo/behance.png",
+      "link": "https://www.behance.net/manojrai2"
+  },
+  {
       "name": "Instagram",
-      "logo": "https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/instagram.png",
-      "link": "https://www.instagram.com/niraj.duwal/"
-    },
-    {
-      "name": "Smule",
-      "logo": "https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/smule.png",
-      "link": "https://www.smule.com/kneerose12"
-    }
+      "logo": "./images/socialProviderLogo/instagram.png",
+      "link": "https://www.instagram.com/mmanoj_rai/"
+  },
+  {
+      "name": "VSCO",
+      "logo": "./images/socialProviderLogo/vsco.png",
+      "link": "https://vsco.co/manojraii/gallery"
+  },
+  {
+      "name": "Goodreads",
+      "logo": "./images/socialProviderLogo/goodreads.png",
+      "link": "https://www.goodreads.com/user/edit?tab=settings"
+  }
   ],
   "quotesDetails": {
-    "quotes": "Great web design without functionality is like a sports car with no engine.",
-    "owner": "Paul Cookson"
+    "quotes": "A user interface is like a joke. If you have to explain it, it’s not that good.",
+    "owner": "Martin LeBlanc"
   },
   "personalities": {
-    "title": "I am Consul (ESFJ-A)",
-    "description": "Embodying a keen analytical mindset, adept at employing creative problem-solving strategies, and dedicated to unwavering self-enhancement.",
-    "references": "According to 16personalities.com",
-    "image": "https://kneerose.github.io/bucket/portfolio/images/16personal.png"
+    "title": "I am INTP-T",
+    "description": "Characterized by a strong analytical mind, a creative approach to problem-solving, and a continuous drive for self-improvement.",
+    "references": "According to 16personalities.com"
   },
   "products": [
     {
       "title": "bettercollected",
       "link": "https://bettercollected.com/",
       "description": "A privacy-focused form builder designed for conscious companies that prioritize the rights and data privacy of their form responders.",
-      "role": "Fullstack developer",
+      "role": "UI Designer, Researcher, Logo designer, UX Designer",
       "backgroundColor": "#E8F2FF",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/bettercollected.png"
-    },
-    {
-      "title": "Sireto",
-      "link": "https://sireto.com/",
-      "description": "Sireto is a software company based on the Netherlands and Nepal building innovative software and solutions for our partners and valued clients.",
-      "role": "Fullstack developer",
+      "image": "./images/bettercollected.png"
+  },
+  {
+      "title": "Tootle",
+      "link": "https://www.tootle.com.np/",
+      "description": "A ride-sharing platform based in Nepal. It allows users to book rides through a mobile app, connecting them with nearby riders who can provide transportation services.",
+      "role": "UI Designer, Researcher, UX Designer",
       "backgroundColor": "#FDF2FF",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/sireto.png"
-    },
-    {
+      "image": "./images/tootle.png"
+  },
+  {
       "title": "Kuber IDE",
       "link": "https://kuberide.com/",
       "description": "PreSetup Environment for writing and trying out plutus contracts and cardano transactions.",
-      "role": "Ghost theme developer",
+      "role": "UI Designer, Researcher, Logo designer, UX Designer",
       "backgroundColor": "#F4F4F6",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/KuberIDE.png"
-    }
+      "image": "./images/KuberIDE.png"
+  }
   ],
   "testimonials": [
     {
-      "thought": "Niraj has a remarkable ability to grasp complex concepts quickly and delivered outstanding solutions that exceeded expectations. I wholeheartedly endorse Niraj's expertise and look forward to collaborating again.",
-      "name": "Michael Johnson",
-      "position": "CTO, InnovateHub",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/testimonialImage1.png"
+      "thought": "Manoj is a disciplined guy who delivered the assigned tasks within the deadline with a fantastic result. I highly recommend Manoj as a UI/UX Designer and would love to work together again.",
+        "name": "NIBESH KIRAN ADHIKARI",
+        "position": "CEO, Idea Breed Technology",
+        "image": "./images/testimonialImage.png"
     },
     {
-      "thought": "Niraj is a disciplined guy who delivered the assigned tasks within the deadline with a fantastic result. I highly recommend Niraj as a software Developer and would love to work together again.",
+      "thought": "Manoj is a disciplined guy who delivered the assigned tasks within the deadline with a fantastic result. I highly recommend Niraj as a software Developer and would love to work together again.",
       "name": "Sandip pandey",
       "position": "CEO, Sireto technology",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/testimonialImage.png"
+      "image": "https://notmanoj.github.io/bucket/portfolio/images/testimonialImage.png"
     },
     {
-      "thought": "Niraj's attention to detail and problem-solving skills are exemplary. His dedication and innovative approach significantly contributed to the project's success. I enthusiastically recommend Niraj for his software development prowess.",
+      "thought": "Manoj's attention to detail and problem-solving skills are exemplary. His dedication and innovative approach significantly contributed to the project's success. I enthusiastically recommend Niraj for his software development prowess.",
       "name": "Emily Walker",
       "position": "VP of Engineering, TechRevolution",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/testimonialImage2.png"
+      "image": "https://notmanoj.github.io/bucket/portfolio/images/testimonialImage2.png"
     }
   ],
   "facts": [
