@@ -80,38 +80,30 @@
         "image": "https://notmanoj.github.io/bucket/portfolio/images/testimonialImage.png"
     },
     {
-      "thought": "Manoj is a disciplined guy who delivered the assigned tasks within the deadline with a fantastic result. I highly recommend Manoj as a software Developer and would love to work together again.",
-      "name": "Sandip pandey",
-      "position": "CEO, Sireto technology",
-      "image": "https://notmanoj.github.io/bucket/portfolio/images/testimonialImage1.png"
+      "thought": "Manoj's design talent shines in diverse projects, making them user-friendly and innovative. Working with him is a joy; he's friendly and impactful in our digital endeavors.",
+      "name": "Niraj Duwal",
+      "position": "SOFTWARE ENGINEER, Sireto technology",
+      "image": "https://notmanoj.github.io/bucket/portfolio/images/Niraj.png"
     },
     {
-      "thought": "Manoj's attention to detail and problem-solving skills are exemplary. His dedication and innovative approach significantly contributed to the project's success. I enthusiastically recommend Manoj for his design prowess.",
-      "name": "Emily Walker",
-      "position": "VP of Engineering, TechRevolution",
-      "image": "https://notmanoj.github.io/bucket/portfolio/images/testimonialImage2.png"
+      "thought": "Manoj's design prowess extends across various projects, including BetterCollected, PDF Editor, and Mempool. His innovative approach and commitment to user-centric design have significantly elevated our products, leaving a lasting positive impact on our digital landscape.",
+      "name": "Rupan Chaulagain",
+      "position": "SR. SOFTWARE ENGINEER, Sireto technology",
+      "image": "https://notmanoj.github.io/bucket/portfolio/images/Rupan.png"
     }
   ],
   "facts": [
-    "Software developers are known for their adeptness with keyboard shortcuts, utilizing them extensively to navigate through code editors and increase productivity.",
-    "It's a stereotype, but many developers have a fondness for coffee, often associating it with long hours of coding and problem-solving.",
-    "A significant number of developers code as a hobby or side project, working on personal coding challenges, open-source contributions, or passion projects outside of their regular job.",
-    "Software development has been at the forefront of remote work culture, with many developers embracing the flexibility to work from anywhere, even before it became more widespread in other industries.",
-    "Developers frequently visit Stack Overflow, a popular Q&A platform, to seek solutions, troubleshoot code, and learn from fellow developers' experiences.",
-    "Developer communities often share programming-related memes and jokes, reflecting a shared sense of humor about coding challenges and tech-related situations.",
-    "Developers emphasize continual learning, often attending workshops, conferences, and online courses to stay updated with the latest programming languages, tools, and methodologies.",
-    "Developers enjoy solving complex puzzles, and many developers find coding akin to solving intricate problems, relishing the mental challenges it presents.",
-    "Proficiency in version control systems like Git is ingrained in developer workflow, allowing them to track changes, collaborate efficiently, and maintain codebase integrity.",
-    "Software developers come from various academic backgrounds, with some having degrees in computer science, engineering, mathematics, or even transitioning from entirely different fields due to a passion for programming.",
-    "Developers often use a technique called \"rubber duck debugging,\" where they explain their code problem to an inanimate object (like a rubber duck) to help clarify their thinking and find solutions.",
-    "Many developers, regardless of their experience, suffer from imposter syndrome, feeling like they don't belong or aren't skilled enough despite their competence and achievements.",
-    "Developers frequently participate in hackathons, where they collaborate intensively on creative coding projects within a short timeframe, fostering innovation and camaraderie within the community.",
-    "A significant number of developers actively contribute to open-source projects, sharing code, fixing bugs, and collaborating with other developers worldwide.",
-    "Developers engage in various online communities and forums like GitHub, Reddit (e.g., r/programming), and Discord servers dedicated to programming, exchanging ideas, and seeking advice.",
-    "Developers value code reviews as a means of improving code quality, learning from peers, and ensuring best practices are followed within a team or community.",
-    "Some developers enjoy pair programming, a practice where two programmers work together on the same code, providing real-time feedback and improving code quality.",
-    " Developers sometimes include hidden messages, jokes, or Easter eggs in their code for fun, which might only be discovered by those who read through the code.",
-    "Many developers prefer using the terminal and command line tools for their efficiency and flexibility in managing projects and executing tasks.",
-    "Developers embrace CI/CD practices to automate building, testing, and deploying code changes, ensuring faster and more reliable software delivery."
+    "Designers spend hours debating between two nearly identical shades of gray, only to end up using both.",
+    "Male penguins often propose to their mates by offering them a pebble. Talk about a rock-solid commitment!",
+    "The Leaning Tower of Pisa was never intended to lean, but now it's one of the most famous leaning structures in the world.",
+    "Scientists discovered a fossilized dinosaur egg with an embryo inside, confirming that eggs came before chickens!",
+    "Butterflies use their feet to taste food. Imagine tasting your dinner by stepping on it!",
+    "Studies have shown that while women tend to read more fiction, men are more likely to read non-fiction.",
+    "Reading aloud can improve comprehension and memory retention. It's not just for children; adults can benefit from it too!",
+    "Vincent van Gogh's masterpiece \"Starry Night\" was painted while he was in a mental asylum. Maybe he was inspired by the nightly view from his window or the cosmic mysteries of the universe!",
+    "Vincent van Gogh only sold one painting during his lifetime? Despite his lack of commercial success, his paintings are now some of the most valuable and sought-after works of art in the world.",
+    "The term \"Lorem Ipsum\" used in graphic design is scrambled Latin from a work by Cicero? It's been the standard placeholder text since the 16th century.",
+    "Despite their name, banana trees are technically giant herbs, not trees. They're the world's largest herbaceous flowering plants.",
+    
   ]
 }
